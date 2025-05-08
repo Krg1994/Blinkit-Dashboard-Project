@@ -17,25 +17,25 @@ The dashboard was built using the following tools and technologies: <Br />
 
 4. Steps involved in building this dashboard:
    
-# Requirement Gathering: Identify key business metrics and data needs.
+ Requirement Gathering: Identify key business metrics and data needs.
 
-# Data Walkthrough: Understand the structure and fields in the dataset.
+ Data Walkthrough: Understand the structure and fields in the dataset.
 
-# Data Connection: Link Power BI with the Blinkit data source.
+ Data Connection: Link Power BI with the Blinkit data source.
 
-# Data Cleaning: Clean and refine the data for accurate analysis.
+ Data Cleaning: Clean and refine the data for accurate analysis.
 
-# Data Modelling: Structure data relationships for efficient analysis.
+ Data Modelling: Structure data relationships for efficient analysis.
 
-# Data Processing: Transform and prepare data for visualization.
+ Data Processing: Transform and prepare data for visualization.
 
-# DAX Calculation: Create custom metrics using DAX for deeper insights.
+ DAX Calculation: Create custom metrics using DAX for deeper insights.
 
-# Chart Development & Formatting: Build visualisations and format charts.
+ Chart Development & Formatting: Build visualisations and format charts.
 
-# Dashboard & Report Development: Design and create the final dashboard.
+ Dashboard & Report Development: Design and create the final dashboard.
 
-# Insights Generation: Analyze the dashboard to extract key business insights.
+ Insights Generation: Analyze the dashboard to extract key business insights.
 
 5. Key Performance Indicators (KPIS):
 
