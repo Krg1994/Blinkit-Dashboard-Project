@@ -1,4 +1,4 @@
-Blinkit-Dashboard-Project
+1.Blinkit-Dashboard-Project
 ------------------------------
 A dynamic, interactive data visualization built to explore data of quick commerce company (Blinkit) focusing on regional comparisons, sales performance, customer ratings and fat content across different categories and outlets. 
 
@@ -8,9 +8,8 @@ A dynamic, interactive data visualization built to explore data of quick commerc
 The Blinkit Analytics Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare over different level cities. The dashboard focuses on highlighting major features like revenue by fat content in products, fat content by outlet and revenue by specific item category. This tool is intended for use by commerce analysts, revenue enthusiasts and data-driven strategists who seek to understand trends and characteristics of blinkit report.
 
 3. Tech Stack
-List the key technologies used to build the dashboard.
 
-The dashboard was built using the following tools and technologies:
+The dashboard was built using the following tools and technologies: <Br />
 • 📊 Power BI Desktop – Main data visualization platform used for report creation. <Br />
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data. <Br />
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic. <Br />
@@ -30,7 +29,7 @@ The dashboard was built using the following tools and technologies:
 
 6. Data Processing: Transform and prepare data for visualization.
 
-7.DAX Calculation: Create custom metrics using DAX for deeper insights.
+7. DAX Calculation: Create custom metrics using DAX for deeper insights.
 
 8. Chart Development & Formatting: Build visualisations and format charts.
 
