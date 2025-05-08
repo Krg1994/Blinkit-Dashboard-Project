@@ -17,25 +17,25 @@ The dashboard was built using the following tools and technologies: <Br />
 
 4. Steps involved in building this dashboard:
    
-1. Requirement Gathering: Identify key business metrics and data needs.
+# Requirement Gathering: Identify key business metrics and data needs.
 
-2. Data Walkthrough: Understand the structure and fields in the dataset.
+# Data Walkthrough: Understand the structure and fields in the dataset.
 
-3. Data Connection: Link Power BI with the Blinkit data source.
+# Data Connection: Link Power BI with the Blinkit data source.
 
-4. Data Cleaning: Clean and refine the data for accurate analysis.
+# Data Cleaning: Clean and refine the data for accurate analysis.
 
-5. Data Modelling: Structure data relationships for efficient analysis.
+# Data Modelling: Structure data relationships for efficient analysis.
 
-6. Data Processing: Transform and prepare data for visualization.
+# Data Processing: Transform and prepare data for visualization.
 
-7. DAX Calculation: Create custom metrics using DAX for deeper insights.
+# DAX Calculation: Create custom metrics using DAX for deeper insights.
 
-8. Chart Development & Formatting: Build visualisations and format charts.
+# Chart Development & Formatting: Build visualisations and format charts.
 
-9. Dashboard & Report Development: Design and create the final dashboard.
+# Dashboard & Report Development: Design and create the final dashboard.
 
-10. Insights Generation: Analyze the dashboard to extract key business insights.
+# Insights Generation: Analyze the dashboard to extract key business insights.
 
 5. Key Performance Indicators (KPIS):
 
@@ -47,7 +47,7 @@ Number of items: Total count of items sold.
 
 Average Rating: Average customer rating for products.
 
-Charts:
+# Charts:
 
 Total sales by Fat Content: Compare sales across different fat content categories.
 
