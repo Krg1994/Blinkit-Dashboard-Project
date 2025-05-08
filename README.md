@@ -11,9 +11,9 @@ The Blinkit Analytics Dashboard is a visually engaging and analytical Power BI r
 List the key technologies used to build the dashboard.
 
 The dashboard was built using the following tools and technologies:
-• 📊 Power BI Desktop – Main data visualization platform used for report creation.
-• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
-• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
+• 📊 Power BI Desktop – Main data visualization platform used for report creation. <Br />
+• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data. <Br />
+• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic. <Br />
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
 4. Steps involved in building this dashboard:
@@ -70,5 +70,5 @@ Total Quantity Sold 9K
 • Dashboard: https://github.com/Krg1994/Blinkit-Dashboard-Project/blob/main/Blinkit%20Dashboard.pbit <Br />
 • Images:<Br />
   <img width="590" alt="Blinkit Dashboard" src="https://github.com/user-attachments/assets/b95031e7-fe0b-4093-87f3-ede62f14fcb0" /> <Br />
-  <img width="577" alt="Blinkit Table" src="https://github.com/user-attachments/assets/0cbd7b8c-b274-4f2e-9c9e-9ab650a33acf" />
+     <img width="577" alt="Blinkit Table" src="https://github.com/user-attachments/assets/0cbd7b8c-b274-4f2e-9c9e-9ab650a33acf" />
 
